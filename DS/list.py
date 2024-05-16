@@ -15,3 +15,9 @@ list1.append(5000) # append(value) means add a value into the last index of the 
 # remove list
 list1.remove (1000) # remove a specific value inside the list
 del list2[3] # remove a value within its index
+
+# few more basic operations for list
+print (len(list1)) # print the length of list1
+print (list1+list2) # print the concatenation list between list1 and list2
+for x in list1: # for loop 
+    print(x)
