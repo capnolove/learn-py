@@ -1,4 +1,4 @@
-# list can be written by a lot of comma-seperated items in square bracket
+# list can be written by a lot of comma-separated items in square bracket
 # items in list don't need to be the same type
 
 list1 = ['a', 'b', 1000, 2000]
