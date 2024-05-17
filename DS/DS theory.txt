@@ -1,4 +1,5 @@
-DS
+DS (* means not sure about it, must revision and practice more)
+
 - Dictionary
 Each key in dictionary will be separated by a colon (:)
 Items are separated by comma (,)
@@ -9,7 +10,7 @@ Keys must be a data type such as strings, numbers or tuples
 List can be written by a lot of comma-separated items in square bracket
 Items in list don't need to be the same type
 
-- Hash table (quite same to dictionary)
+- Hash table (quite same to dictionary)*
     Concept:
         A hash table is a data structure that implements a dictionary (also called an associative array). 
         It allows you to store key-value pairs and efficiently retrieve values based on their keys.
@@ -24,3 +25,12 @@ Items in list don't need to be the same type
         - Table: The hash table is typically implemented as an array of slots. 
         Each slot can potentially hold a key-value pair.
 
+Link for reference: https://vnoi.info/wiki/algo/data-structures/hash-table.md
+
+- Tree
+There are 3 types of Tree
+    - Binary Tree
+    - Ternary Tree
+    - Generic Tree
+
+Link for reference: https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/
