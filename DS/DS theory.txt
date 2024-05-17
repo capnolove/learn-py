@@ -10,17 +10,17 @@ List can be written by a lot of comma-separated items in square bracket
 Items in list don't need to be the same type
 
 - Hash table (quite same to dictionary)
-Concept:
-A hash table is a data structure that implements a dictionary (also called an associative array). 
-It allows you to store key-value pairs and efficiently retrieve values based on their keys.
+    Concept:
+        A hash table is a data structure that implements a dictionary (also called an associative array). 
+        It allows you to store key-value pairs and efficiently retrieve values based on their keys.
 
-Core Functionality:
-- Keys: Each entry in the hash table has a unique key that acts as an identifier for the associated value.
+    Core Functionality:
+        - Keys: Each entry in the hash table has a unique key that acts as an identifier for the associated value.
 
-- Hash Function: A hash function is a function that takes a key as input and generates a numeric index (hash value) 
+        - Hash Function: A hash function is a function that takes a key as input and generates a numeric index (hash value) 
                 within a predefined range. This hash value is used to determine the location where the key-value pair 
                 is stored in the hash table.
 
-- Table: The hash table is typically implemented as an array of slots. 
+        - Table: The hash table is typically implemented as an array of slots. 
         Each slot can potentially hold a key-value pair.
 
