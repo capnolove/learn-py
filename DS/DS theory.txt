@@ -25,9 +25,10 @@ Items in list don't need to be the same type
         - Table: The hash table is typically implemented as an array of slots. 
         Each slot can potentially hold a key-value pair.
 
-Link for reference: https://vnoi.info/wiki/algo/data-structures/hash-table.md
+Link for reference: https://vnoi.info/wiki/algo/data-structures/hash-table.md (general knowledge)
+                    https://www.w3schools.com/dsa/dsa_theory_hashtables.php (read this for detail step)
 
-- Tree
+- Tree 
 There are 3 types of Tree
     - Binary Tree
     - Ternary Tree
