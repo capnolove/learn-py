@@ -12,7 +12,7 @@ class SimpleLinkedList:
         new_node = Node(data)
         if self.head is None:
             self.head = new_node
-            return
+            return # Nothing to return
         current_node = self.head
         while current_node.next:  # Find the last node
             current_node = current_node.next
