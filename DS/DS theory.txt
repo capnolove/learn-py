@@ -10,6 +10,14 @@ Keys must be a data type such as strings, numbers or tuples
 List can be written by a lot of comma-separated items in square bracket
 Items in list don't need to be the same type
 
+- Linked list
+Linked list is a linear data structure, in which elements are not stored at a contiguous location, rather they are linked using pointers. 
+Linked list forms a series of connected nodes, where each node stores the data and the address of the next node.
+There are 3 mainly types of linked list
+    - Single
+    - Double
+    - Circular
+
 - Hash table (quite same to dictionary)*
     Concept:
         A hash table is a data structure that implements a dictionary (also called an associative array). 
@@ -31,7 +39,7 @@ Link for reference: https://vnoi.info/wiki/algo/data-structures/hash-table.md (g
 - Tree 
 There are 3 types of Tree
     - Binary Tree
-    - Ternary Tree
-    - Generic Tree
+    - Ternary Tree*
+    - Generic Tree*
 
 Link for reference: https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/
