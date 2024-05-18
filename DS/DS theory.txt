@@ -17,6 +17,7 @@ There are 3 mainly types of linked list
     - Single
     - Double
     - Circular
+Link for reference: https://www.geeksforgeeks.org/what-is-linked-list/?ref=lbp
 
 - Hash table (quite same to dictionary)*
     Concept:
@@ -43,3 +44,5 @@ There are 3 types of Tree
     - Generic Tree*
 
 Link for reference: https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/
+                    https://www.geeksforgeeks.org/ternary-search-tree/
+                    https://www.geeksforgeeks.org/ternary-search-tree-meaning-definition-in-dsa/?ref=lbp
