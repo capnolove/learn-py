@@ -43,12 +43,3 @@ class Node:
             res=res+self.inOrderTraversal(root.right)
             res.append(root.data)
             return res
-    
-
-root=Node(input())
-root.insert(input())
-root.insert(input())
-root.insert(input())
-root.insert(input())
-root.insert(input())
-root.printTree()

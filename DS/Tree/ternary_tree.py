@@ -19,3 +19,10 @@ def insert(root, word):
         else:    # if traversed (len(word)==1 or last char)
             root.isLeaf=True    # set isLeaf to this root for marking this one completed
     return root
+
+def search(root, word):
+    if not root:
+        return False
+    if word[0]<root.data:
+        return search(root.left, word)
+    
